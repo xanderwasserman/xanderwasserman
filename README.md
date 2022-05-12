@@ -7,7 +7,7 @@ IoT Software Engineer
 I am a Mechatronic Engineer who is enthusiastic in software engineering and development. I am always eager to contribute to team success through hard work, fast learning, attention to detail and excellent organizational skills. I have a clear understanding of IoT development, distributed systems, and functional programming. I've had training in various programming languages, embedded microcontroller programming, control systems and robotics. I am strongly motivated to learn, grow, and excel in my Software Engineering and Development career.
 
 * 🌍  I'm based in Cape Town, South Africa.
-* 🖥️  See my portfolio at [My Portfolio](http://alexanderwasserman.co.za)
+* 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/alexander-wasserman-758405a2/)
 * ✉️  You can contact me at [xanderwasserman@gmail.com](mailto:xanderwasserman@gmail.com)
 * 🚀  I'm currently working on [IoT software development](http://fastcomm.com)
 * 🧠  I'm learning FreeRTOS embedded programming.
