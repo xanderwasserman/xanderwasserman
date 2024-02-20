@@ -9,8 +9,7 @@ I am a Mechatronic Engineer who is enthusiastic in software engineering and deve
 * 🌍  I'm based in Cape Town, South Africa.
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/alexander-wasserman-758405a2/)
 * ✉️  You can contact me at [xanderwasserman@gmail.com](mailto:xanderwasserman@gmail.com)
-* 🚀  I'm currently working on [IoT software development](http://fastcomm.com)
-* 🧠  I'm learning FreeRTOS embedded programming.
+* 🧠  I'm currently learning full-stack development.
 
 ### Skills
 
