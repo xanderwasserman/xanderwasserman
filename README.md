@@ -1,7 +1,7 @@
 Hi 👋 My name is Alexander Wasserman
 ====================================
 
-IoT Software Engineer
+Embedded Software Engineer
 ---------------------
 
 I am a Mechatronic Engineer who is enthusiastic in software engineering and development. I have a clear understanding of IoT development, distributed systems, and functional programming. I've had training in various programming languages, embedded microcontroller programming, control systems and robotics. I am strongly motivated to learn, grow, and excel in my Software Engineering and Development career.
