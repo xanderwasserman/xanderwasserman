@@ -8,7 +8,7 @@ I am a Mechatronic Engineer who is enthusiastic in software engineering and deve
 
 * 🌍  I'm based in The Netherlands.
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/alexander-wasserman-758405a2/)
-* ✉️  You can contact me at [xanderwasserman@gmail.com](mailto:xanderwasserman@gmail.com)
+* ✉️  You can contact me at [alexander@wassie.dev](mailto:alexander@wassie.dev)
 * 🧠  I'm currently improving my C++ skills.
 
 ### Skills
